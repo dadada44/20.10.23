@@ -1,0 +1,40 @@
+.okenko{
+    background-color: darkolivegreen;
+    border: 1px solid black;
+    width: 500px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.odsazeni{
+    display: flex;
+    justify-content: center;
+    margin: 16px 0;
+}
+
+button{
+    background-color: darkseagreen;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border: 1px solid black;
+
+}
+
+.button1{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: auto;
+
+}
+
+.button2{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: auto;
+
+}
